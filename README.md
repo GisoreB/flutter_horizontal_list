@@ -2,15 +2,7 @@
 
 In Flutter there can be Two types of lists, namely, horizontal list and vertical list. Both these lists are created using the ListView constructor and assigning the scrollDirection parameter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-04-29 202909](https://github.com/GisoreB/flutter_horizontal_list/assets/144854877/d3791cdd-f46c-4c40-8151-f78b3baaf83a)
+![Screenshot 2024-04-29 202932](https://github.com/GisoreB/flutter_horizontal_list/assets/144854877/d650bc35-7452-4cb1-9de0-7fa6e14ed392)
